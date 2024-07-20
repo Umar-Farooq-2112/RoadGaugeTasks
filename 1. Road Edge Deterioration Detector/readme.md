@@ -9,8 +9,7 @@ This Python-based project leverages OpenCV to detect edge deterioration in road 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
